@@ -1,3 +1,6 @@
+//NAME:Derick Murimi
+//REG:CT100/G/30737/26
+//DATE29/9/2026
 #include<stdio.h>
 float calculatebill(float units_consumed);
 int main(){
